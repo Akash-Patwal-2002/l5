@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Akash-Patwal-2002/l5#readme",
   "devDependencies": {
     "jest": "^29.3.1",
+    "prettier": "^2.8.0",
     "sequelize-cli": "^6.5.2"
   },
   "dependencies": {
